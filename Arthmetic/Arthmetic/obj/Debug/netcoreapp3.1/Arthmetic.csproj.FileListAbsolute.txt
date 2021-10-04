@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.exe
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.deps.json
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.runtimeconfig.json
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.dll
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\bin\Debug\netcoreapp3.1\Arthmetic.pdb
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.AssemblyInfo.cs
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.dll
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.pdb
+C:\Users\kopec\source\repos\Arthmetic\Arthmetic\obj\Debug\netcoreapp3.1\Arthmetic.genruntimeconfig.cache
