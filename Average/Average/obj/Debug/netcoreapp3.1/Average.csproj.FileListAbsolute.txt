@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\Average\Average\obj\Debug\netcoreapp3.1\Average.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\Average\Average\obj\Debug\netcoreapp3.1\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\Average\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\Average\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfo.cs
+C:\Users\kopec\source\repos\Average\Average\obj\Debug\netcoreapp3.1\Average.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\Average\Average\bin\Debug\netcoreapp3.1\Average.exe
+C:\Users\kopec\source\repos\Average\Average\bin\Debug\netcoreapp3.1\Average.deps.json
+C:\Users\kopec\source\repos\Average\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.json
+C:\Users\kopec\source\repos\Average\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\Average\Average\bin\Debug\netcoreapp3.1\Average.dll
+C:\Users\kopec\source\repos\Average\Average\bin\Debug\netcoreapp3.1\Average.pdb
+C:\Users\kopec\source\repos\Average\Average\obj\Debug\netcoreapp3.1\Average.dll
+C:\Users\kopec\source\repos\Average\Average\obj\Debug\netcoreapp3.1\Average.pdb
+C:\Users\kopec\source\repos\Average\Average\obj\Debug\netcoreapp3.1\Average.genruntimeconfig.cache

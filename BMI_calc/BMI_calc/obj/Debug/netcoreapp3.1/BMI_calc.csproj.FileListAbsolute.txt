@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\bin\Debug\netcoreapp3.1\BMI_calc.exe
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\bin\Debug\netcoreapp3.1\BMI_calc.deps.json
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\bin\Debug\netcoreapp3.1\BMI_calc.runtimeconfig.json
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\bin\Debug\netcoreapp3.1\BMI_calc.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\bin\Debug\netcoreapp3.1\BMI_calc.dll
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\bin\Debug\netcoreapp3.1\BMI_calc.pdb
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\obj\Debug\netcoreapp3.1\BMI_calc.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\obj\Debug\netcoreapp3.1\BMI_calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\obj\Debug\netcoreapp3.1\BMI_calc.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\obj\Debug\netcoreapp3.1\BMI_calc.AssemblyInfo.cs
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\obj\Debug\netcoreapp3.1\BMI_calc.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\obj\Debug\netcoreapp3.1\BMI_calc.dll
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\obj\Debug\netcoreapp3.1\BMI_calc.pdb
+C:\Users\kopec\source\repos\BMI_calc\BMI_calc\obj\Debug\netcoreapp3.1\BMI_calc.genruntimeconfig.cache
