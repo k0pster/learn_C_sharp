@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfo.cs
+C:\Users\kopec\source\repos\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.exe
+C:\Users\kopec\source\repos\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.deps.json
+C:\Users\kopec\source\repos\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.json
+C:\Users\kopec\source\repos\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.dll
+C:\Users\kopec\source\repos\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.pdb
+C:\Users\kopec\source\repos\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.dll
+C:\Users\kopec\source\repos\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.pdb
+C:\Users\kopec\source\repos\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.genruntimeconfig.cache

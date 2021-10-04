@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\delta_calc\delta_calc\bin\Debug\netcoreapp3.1\delta_calc.exe
+C:\Users\kopec\source\repos\delta_calc\delta_calc\bin\Debug\netcoreapp3.1\delta_calc.deps.json
+C:\Users\kopec\source\repos\delta_calc\delta_calc\bin\Debug\netcoreapp3.1\delta_calc.runtimeconfig.json
+C:\Users\kopec\source\repos\delta_calc\delta_calc\bin\Debug\netcoreapp3.1\delta_calc.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\delta_calc\delta_calc\bin\Debug\netcoreapp3.1\delta_calc.dll
+C:\Users\kopec\source\repos\delta_calc\delta_calc\bin\Debug\netcoreapp3.1\delta_calc.pdb
+C:\Users\kopec\source\repos\delta_calc\delta_calc\obj\Debug\netcoreapp3.1\delta_calc.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\delta_calc\delta_calc\obj\Debug\netcoreapp3.1\delta_calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\delta_calc\delta_calc\obj\Debug\netcoreapp3.1\delta_calc.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\delta_calc\delta_calc\obj\Debug\netcoreapp3.1\delta_calc.AssemblyInfo.cs
+C:\Users\kopec\source\repos\delta_calc\delta_calc\obj\Debug\netcoreapp3.1\delta_calc.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\delta_calc\delta_calc\obj\Debug\netcoreapp3.1\delta_calc.dll
+C:\Users\kopec\source\repos\delta_calc\delta_calc\obj\Debug\netcoreapp3.1\delta_calc.pdb
+C:\Users\kopec\source\repos\delta_calc\delta_calc\obj\Debug\netcoreapp3.1\delta_calc.genruntimeconfig.cache

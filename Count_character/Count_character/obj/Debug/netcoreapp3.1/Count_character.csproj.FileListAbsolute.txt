@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\Count_character\Count_character\bin\Debug\netcoreapp3.1\Count_character.exe
+C:\Users\kopec\source\repos\Count_character\Count_character\bin\Debug\netcoreapp3.1\Count_character.deps.json
+C:\Users\kopec\source\repos\Count_character\Count_character\bin\Debug\netcoreapp3.1\Count_character.runtimeconfig.json
+C:\Users\kopec\source\repos\Count_character\Count_character\bin\Debug\netcoreapp3.1\Count_character.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\Count_character\Count_character\bin\Debug\netcoreapp3.1\Count_character.dll
+C:\Users\kopec\source\repos\Count_character\Count_character\bin\Debug\netcoreapp3.1\Count_character.pdb
+C:\Users\kopec\source\repos\Count_character\Count_character\obj\Debug\netcoreapp3.1\Count_character.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\Count_character\Count_character\obj\Debug\netcoreapp3.1\Count_character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\Count_character\Count_character\obj\Debug\netcoreapp3.1\Count_character.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\Count_character\Count_character\obj\Debug\netcoreapp3.1\Count_character.AssemblyInfo.cs
+C:\Users\kopec\source\repos\Count_character\Count_character\obj\Debug\netcoreapp3.1\Count_character.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\Count_character\Count_character\obj\Debug\netcoreapp3.1\Count_character.dll
+C:\Users\kopec\source\repos\Count_character\Count_character\obj\Debug\netcoreapp3.1\Count_character.pdb
+C:\Users\kopec\source\repos\Count_character\Count_character\obj\Debug\netcoreapp3.1\Count_character.genruntimeconfig.cache
