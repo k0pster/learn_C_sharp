@@ -1,0 +1,13 @@
+C:\Users\kopec\source\repos\power_calculator\power_calculator\bin\Debug\netcoreapp3.1\power_calculator.exe
+C:\Users\kopec\source\repos\power_calculator\power_calculator\bin\Debug\netcoreapp3.1\power_calculator.deps.json
+C:\Users\kopec\source\repos\power_calculator\power_calculator\bin\Debug\netcoreapp3.1\power_calculator.runtimeconfig.json
+C:\Users\kopec\source\repos\power_calculator\power_calculator\bin\Debug\netcoreapp3.1\power_calculator.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\power_calculator\power_calculator\bin\Debug\netcoreapp3.1\power_calculator.dll
+C:\Users\kopec\source\repos\power_calculator\power_calculator\bin\Debug\netcoreapp3.1\power_calculator.pdb
+C:\Users\kopec\source\repos\power_calculator\power_calculator\obj\Debug\netcoreapp3.1\power_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\power_calculator\power_calculator\obj\Debug\netcoreapp3.1\power_calculator.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\power_calculator\power_calculator\obj\Debug\netcoreapp3.1\power_calculator.AssemblyInfo.cs
+C:\Users\kopec\source\repos\power_calculator\power_calculator\obj\Debug\netcoreapp3.1\power_calculator.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\power_calculator\power_calculator\obj\Debug\netcoreapp3.1\power_calculator.dll
+C:\Users\kopec\source\repos\power_calculator\power_calculator\obj\Debug\netcoreapp3.1\power_calculator.pdb
+C:\Users\kopec\source\repos\power_calculator\power_calculator\obj\Debug\netcoreapp3.1\power_calculator.genruntimeconfig.cache
