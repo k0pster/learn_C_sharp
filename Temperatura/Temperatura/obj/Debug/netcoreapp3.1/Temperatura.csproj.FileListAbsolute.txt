@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.AssemblyInfo.cs
+C:\Users\kopec\source\repos\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.exe
+C:\Users\kopec\source\repos\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.deps.json
+C:\Users\kopec\source\repos\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.runtimeconfig.json
+C:\Users\kopec\source\repos\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.dll
+C:\Users\kopec\source\repos\Temperatura\Temperatura\bin\Debug\netcoreapp3.1\Temperatura.pdb
+C:\Users\kopec\source\repos\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.dll
+C:\Users\kopec\source\repos\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.pdb
+C:\Users\kopec\source\repos\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.genruntimeconfig.cache
+C:\Users\kopec\source\repos\Temperatura\Temperatura\obj\Debug\netcoreapp3.1\Temperatura.csproj.AssemblyReference.cache

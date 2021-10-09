@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\bin\Debug\netcoreapp3.1\Rock_Pappers_Scissors.exe
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\bin\Debug\netcoreapp3.1\Rock_Pappers_Scissors.deps.json
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\bin\Debug\netcoreapp3.1\Rock_Pappers_Scissors.runtimeconfig.json
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\bin\Debug\netcoreapp3.1\Rock_Pappers_Scissors.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\bin\Debug\netcoreapp3.1\Rock_Pappers_Scissors.dll
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\bin\Debug\netcoreapp3.1\Rock_Pappers_Scissors.pdb
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\obj\Debug\netcoreapp3.1\Rock_Pappers_Scissors.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\obj\Debug\netcoreapp3.1\Rock_Pappers_Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\obj\Debug\netcoreapp3.1\Rock_Pappers_Scissors.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\obj\Debug\netcoreapp3.1\Rock_Pappers_Scissors.AssemblyInfo.cs
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\obj\Debug\netcoreapp3.1\Rock_Pappers_Scissors.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\obj\Debug\netcoreapp3.1\Rock_Pappers_Scissors.dll
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\obj\Debug\netcoreapp3.1\Rock_Pappers_Scissors.pdb
+C:\Users\kopec\source\repos\Rock_Pappers_Scissors\Rock_Pappers_Scissors\obj\Debug\netcoreapp3.1\Rock_Pappers_Scissors.genruntimeconfig.cache
