@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\bin\Debug\netcoreapp3.1\Reverse_table.exe
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\bin\Debug\netcoreapp3.1\Reverse_table.deps.json
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\bin\Debug\netcoreapp3.1\Reverse_table.runtimeconfig.json
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\bin\Debug\netcoreapp3.1\Reverse_table.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\bin\Debug\netcoreapp3.1\Reverse_table.dll
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\bin\Debug\netcoreapp3.1\Reverse_table.pdb
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\obj\Debug\netcoreapp3.1\Reverse_table.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\obj\Debug\netcoreapp3.1\Reverse_table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\obj\Debug\netcoreapp3.1\Reverse_table.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\obj\Debug\netcoreapp3.1\Reverse_table.AssemblyInfo.cs
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\obj\Debug\netcoreapp3.1\Reverse_table.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\obj\Debug\netcoreapp3.1\Reverse_table.dll
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\obj\Debug\netcoreapp3.1\Reverse_table.pdb
+C:\Users\kopec\source\repos\Reverse_table\Reverse_table\obj\Debug\netcoreapp3.1\Reverse_table.genruntimeconfig.cache
