@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\bin\Debug\netcoreapp3.1\Dice_generator.exe
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\bin\Debug\netcoreapp3.1\Dice_generator.deps.json
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\bin\Debug\netcoreapp3.1\Dice_generator.runtimeconfig.json
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\bin\Debug\netcoreapp3.1\Dice_generator.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\bin\Debug\netcoreapp3.1\Dice_generator.dll
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\bin\Debug\netcoreapp3.1\Dice_generator.pdb
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\obj\Debug\netcoreapp3.1\Dice_generator.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\obj\Debug\netcoreapp3.1\Dice_generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\obj\Debug\netcoreapp3.1\Dice_generator.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\obj\Debug\netcoreapp3.1\Dice_generator.AssemblyInfo.cs
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\obj\Debug\netcoreapp3.1\Dice_generator.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\obj\Debug\netcoreapp3.1\Dice_generator.dll
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\obj\Debug\netcoreapp3.1\Dice_generator.pdb
+C:\Users\kopec\source\repos\Dice_generator\Dice_generator\obj\Debug\netcoreapp3.1\Dice_generator.genruntimeconfig.cache
