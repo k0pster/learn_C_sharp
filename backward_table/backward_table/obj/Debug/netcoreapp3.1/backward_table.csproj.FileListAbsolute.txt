@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\backward_table\backward_table\bin\Debug\netcoreapp3.1\backward_table.exe
+C:\Users\kopec\source\repos\backward_table\backward_table\bin\Debug\netcoreapp3.1\backward_table.deps.json
+C:\Users\kopec\source\repos\backward_table\backward_table\bin\Debug\netcoreapp3.1\backward_table.runtimeconfig.json
+C:\Users\kopec\source\repos\backward_table\backward_table\bin\Debug\netcoreapp3.1\backward_table.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\backward_table\backward_table\bin\Debug\netcoreapp3.1\backward_table.dll
+C:\Users\kopec\source\repos\backward_table\backward_table\bin\Debug\netcoreapp3.1\backward_table.pdb
+C:\Users\kopec\source\repos\backward_table\backward_table\obj\Debug\netcoreapp3.1\backward_table.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\backward_table\backward_table\obj\Debug\netcoreapp3.1\backward_table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\backward_table\backward_table\obj\Debug\netcoreapp3.1\backward_table.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\backward_table\backward_table\obj\Debug\netcoreapp3.1\backward_table.AssemblyInfo.cs
+C:\Users\kopec\source\repos\backward_table\backward_table\obj\Debug\netcoreapp3.1\backward_table.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\backward_table\backward_table\obj\Debug\netcoreapp3.1\backward_table.dll
+C:\Users\kopec\source\repos\backward_table\backward_table\obj\Debug\netcoreapp3.1\backward_table.pdb
+C:\Users\kopec\source\repos\backward_table\backward_table\obj\Debug\netcoreapp3.1\backward_table.genruntimeconfig.cache
