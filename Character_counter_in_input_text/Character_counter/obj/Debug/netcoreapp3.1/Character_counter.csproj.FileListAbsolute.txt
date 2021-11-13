@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\Character_counter\Character_counter\bin\Debug\netcoreapp3.1\Character_counter.exe
+C:\Users\kopec\source\repos\Character_counter\Character_counter\bin\Debug\netcoreapp3.1\Character_counter.deps.json
+C:\Users\kopec\source\repos\Character_counter\Character_counter\bin\Debug\netcoreapp3.1\Character_counter.runtimeconfig.json
+C:\Users\kopec\source\repos\Character_counter\Character_counter\bin\Debug\netcoreapp3.1\Character_counter.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\Character_counter\Character_counter\bin\Debug\netcoreapp3.1\Character_counter.dll
+C:\Users\kopec\source\repos\Character_counter\Character_counter\bin\Debug\netcoreapp3.1\Character_counter.pdb
+C:\Users\kopec\source\repos\Character_counter\Character_counter\obj\Debug\netcoreapp3.1\Character_counter.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\Character_counter\Character_counter\obj\Debug\netcoreapp3.1\Character_counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\Character_counter\Character_counter\obj\Debug\netcoreapp3.1\Character_counter.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\Character_counter\Character_counter\obj\Debug\netcoreapp3.1\Character_counter.AssemblyInfo.cs
+C:\Users\kopec\source\repos\Character_counter\Character_counter\obj\Debug\netcoreapp3.1\Character_counter.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\Character_counter\Character_counter\obj\Debug\netcoreapp3.1\Character_counter.dll
+C:\Users\kopec\source\repos\Character_counter\Character_counter\obj\Debug\netcoreapp3.1\Character_counter.pdb
+C:\Users\kopec\source\repos\Character_counter\Character_counter\obj\Debug\netcoreapp3.1\Character_counter.genruntimeconfig.cache
