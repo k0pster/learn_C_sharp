@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "find_max_in_table/1.0.0": {
+        "runtime": {
+          "find_max_in_table.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "find_max_in_table/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

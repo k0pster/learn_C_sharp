@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\bin\Debug\netcoreapp3.1\find_max_in_table.exe
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\bin\Debug\netcoreapp3.1\find_max_in_table.deps.json
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\bin\Debug\netcoreapp3.1\find_max_in_table.runtimeconfig.json
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\bin\Debug\netcoreapp3.1\find_max_in_table.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\bin\Debug\netcoreapp3.1\find_max_in_table.dll
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\bin\Debug\netcoreapp3.1\find_max_in_table.pdb
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\obj\Debug\netcoreapp3.1\find_max_in_table.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\obj\Debug\netcoreapp3.1\find_max_in_table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\obj\Debug\netcoreapp3.1\find_max_in_table.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\obj\Debug\netcoreapp3.1\find_max_in_table.AssemblyInfo.cs
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\obj\Debug\netcoreapp3.1\find_max_in_table.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\obj\Debug\netcoreapp3.1\find_max_in_table.dll
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\obj\Debug\netcoreapp3.1\find_max_in_table.pdb
+C:\Users\kopec\source\repos\find_max_in_table\find_max_in_table\obj\Debug\netcoreapp3.1\find_max_in_table.genruntimeconfig.cache
