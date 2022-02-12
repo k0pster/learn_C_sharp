@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\obj\Debug\netcoreapp3.1\IsAllDigitsProvided.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\obj\Debug\netcoreapp3.1\IsAllDigitsProvided.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\obj\Debug\netcoreapp3.1\IsAllDigitsProvided.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\obj\Debug\netcoreapp3.1\IsAllDigitsProvided.AssemblyInfo.cs
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\obj\Debug\netcoreapp3.1\IsAllDigitsProvided.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\bin\Debug\netcoreapp3.1\IsAllDigitsProvided.exe
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\bin\Debug\netcoreapp3.1\IsAllDigitsProvided.deps.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\bin\Debug\netcoreapp3.1\IsAllDigitsProvided.runtimeconfig.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\bin\Debug\netcoreapp3.1\IsAllDigitsProvided.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\bin\Debug\netcoreapp3.1\IsAllDigitsProvided.dll
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\bin\Debug\netcoreapp3.1\IsAllDigitsProvided.pdb
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\obj\Debug\netcoreapp3.1\IsAllDigitsProvided.dll
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\obj\Debug\netcoreapp3.1\IsAllDigitsProvided.pdb
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\IsAllDigitsProvided\IsAllDigitsProvided\obj\Debug\netcoreapp3.1\IsAllDigitsProvided.genruntimeconfig.cache
