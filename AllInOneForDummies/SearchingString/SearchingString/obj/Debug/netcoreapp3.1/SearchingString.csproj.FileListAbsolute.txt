@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\bin\Debug\netcoreapp3.1\SearchingString.exe
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\bin\Debug\netcoreapp3.1\SearchingString.deps.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\bin\Debug\netcoreapp3.1\SearchingString.runtimeconfig.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\bin\Debug\netcoreapp3.1\SearchingString.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\bin\Debug\netcoreapp3.1\SearchingString.dll
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\bin\Debug\netcoreapp3.1\SearchingString.pdb
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\obj\Debug\netcoreapp3.1\SearchingString.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\obj\Debug\netcoreapp3.1\SearchingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\obj\Debug\netcoreapp3.1\SearchingString.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\obj\Debug\netcoreapp3.1\SearchingString.AssemblyInfo.cs
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\obj\Debug\netcoreapp3.1\SearchingString.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\obj\Debug\netcoreapp3.1\SearchingString.dll
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\obj\Debug\netcoreapp3.1\SearchingString.pdb
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\SearchingString\SearchingString\obj\Debug\netcoreapp3.1\SearchingString.genruntimeconfig.cache
