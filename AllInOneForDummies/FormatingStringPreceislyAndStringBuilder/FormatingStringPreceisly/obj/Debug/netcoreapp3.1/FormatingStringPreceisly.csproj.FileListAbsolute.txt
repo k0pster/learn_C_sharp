@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\bin\Debug\netcoreapp3.1\FormatingStringPreceisly.exe
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\bin\Debug\netcoreapp3.1\FormatingStringPreceisly.deps.json
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\bin\Debug\netcoreapp3.1\FormatingStringPreceisly.runtimeconfig.json
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\bin\Debug\netcoreapp3.1\FormatingStringPreceisly.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\bin\Debug\netcoreapp3.1\FormatingStringPreceisly.dll
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\bin\Debug\netcoreapp3.1\FormatingStringPreceisly.pdb
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\obj\Debug\netcoreapp3.1\FormatingStringPreceisly.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\obj\Debug\netcoreapp3.1\FormatingStringPreceisly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\obj\Debug\netcoreapp3.1\FormatingStringPreceisly.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\obj\Debug\netcoreapp3.1\FormatingStringPreceisly.AssemblyInfo.cs
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\obj\Debug\netcoreapp3.1\FormatingStringPreceisly.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\obj\Debug\netcoreapp3.1\FormatingStringPreceisly.dll
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\obj\Debug\netcoreapp3.1\FormatingStringPreceisly.pdb
+C:\Users\kopec\source\repos\FormatingStringPreceisly\FormatingStringPreceisly\obj\Debug\netcoreapp3.1\FormatingStringPreceisly.genruntimeconfig.cache
