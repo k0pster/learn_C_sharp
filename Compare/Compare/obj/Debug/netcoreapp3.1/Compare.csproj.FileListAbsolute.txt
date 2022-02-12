@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.exe
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.deps.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.runtimeconfig.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.dll
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\bin\Debug\netcoreapp3.1\Compare.pdb
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.AssemblyInfo.cs
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.dll
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.pdb
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\Compare\Compare\obj\Debug\netcoreapp3.1\Compare.genruntimeconfig.cache
