@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\bin\Debug\netcoreapp3.1\CompareWith3Arguments.exe
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\bin\Debug\netcoreapp3.1\CompareWith3Arguments.deps.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\bin\Debug\netcoreapp3.1\CompareWith3Arguments.runtimeconfig.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\bin\Debug\netcoreapp3.1\CompareWith3Arguments.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\bin\Debug\netcoreapp3.1\CompareWith3Arguments.dll
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\bin\Debug\netcoreapp3.1\CompareWith3Arguments.pdb
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\obj\Debug\netcoreapp3.1\CompareWith3Arguments.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\obj\Debug\netcoreapp3.1\CompareWith3Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\obj\Debug\netcoreapp3.1\CompareWith3Arguments.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\obj\Debug\netcoreapp3.1\CompareWith3Arguments.AssemblyInfo.cs
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\obj\Debug\netcoreapp3.1\CompareWith3Arguments.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\obj\Debug\netcoreapp3.1\CompareWith3Arguments.dll
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\obj\Debug\netcoreapp3.1\CompareWith3Arguments.pdb
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\CompareWith3Arguments\CompareWith3Arguments\obj\Debug\netcoreapp3.1\CompareWith3Arguments.genruntimeconfig.cache

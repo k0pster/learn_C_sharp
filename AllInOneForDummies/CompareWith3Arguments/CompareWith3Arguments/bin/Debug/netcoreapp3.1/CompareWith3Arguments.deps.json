@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CompareWith3Arguments/1.0.0": {
+        "runtime": {
+          "CompareWith3Arguments.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompareWith3Arguments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
