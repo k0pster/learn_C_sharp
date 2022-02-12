@@ -1,0 +1,14 @@
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\bin\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.exe
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\bin\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.deps.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\bin\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.runtimeconfig.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\bin\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.runtimeconfig.dev.json
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\bin\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.dll
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\bin\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.pdb
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\obj\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.csproj.AssemblyReference.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\obj\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\obj\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.AssemblyInfoInputs.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\obj\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.AssemblyInfo.cs
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\obj\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.csproj.CoreCompileInputs.cache
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\obj\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.dll
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\obj\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.pdb
+C:\Users\kopec\source\repos\C#AllinOneForDummies\Strings\TrimAndPadMethodsOnListOfString\TrimAndPadMethodsOnListOfString\obj\Debug\netcoreapp3.1\TrimAndPadMethodsOnListOfString.genruntimeconfig.cache
