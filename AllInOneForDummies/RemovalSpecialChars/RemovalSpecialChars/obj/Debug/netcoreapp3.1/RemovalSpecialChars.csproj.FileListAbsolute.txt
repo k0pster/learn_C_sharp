@@ -1,0 +1,14 @@
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\bin\Debug\netcoreapp3.1\RemovalSpecialChars.exe
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\bin\Debug\netcoreapp3.1\RemovalSpecialChars.deps.json
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\bin\Debug\netcoreapp3.1\RemovalSpecialChars.runtimeconfig.json
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\bin\Debug\netcoreapp3.1\RemovalSpecialChars.runtimeconfig.dev.json
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\bin\Debug\netcoreapp3.1\RemovalSpecialChars.dll
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\bin\Debug\netcoreapp3.1\RemovalSpecialChars.pdb
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\obj\Debug\netcoreapp3.1\RemovalSpecialChars.csproj.AssemblyReference.cache
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\obj\Debug\netcoreapp3.1\RemovalSpecialChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\obj\Debug\netcoreapp3.1\RemovalSpecialChars.AssemblyInfoInputs.cache
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\obj\Debug\netcoreapp3.1\RemovalSpecialChars.AssemblyInfo.cs
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\obj\Debug\netcoreapp3.1\RemovalSpecialChars.csproj.CoreCompileInputs.cache
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\obj\Debug\netcoreapp3.1\RemovalSpecialChars.dll
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\obj\Debug\netcoreapp3.1\RemovalSpecialChars.pdb
+C:\Users\kopec\Desktop\Kurs IT\C#\repos\C#AllinOneForDummies\Strings\RemovalSpecialChars\RemovalSpecialChars\obj\Debug\netcoreapp3.1\RemovalSpecialChars.genruntimeconfig.cache
